@@ -1,2 +1,1 @@
-# FlightFinder
-FlightFinder: Navigating Your Air Travel Option
+FlightFinder is an intelligent air travel search and comparison tool designed to help users explore, filter, and book flights with ease. This project offers real-time flight data, smart filtering options, and fare tracking to simplify the decision-making process for travelers.
